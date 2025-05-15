@@ -1,0 +1,11 @@
+@keyframes pulse {
+  0% {
+    transform: translateY(-50%) scaleX(1);
+  }
+  50% {
+    transform: translateY(-50%) scaleX(1.05);
+  }
+  100% {
+    transform: translateY(-50%) scaleX(1);
+  }
+}
